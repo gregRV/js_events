@@ -11,7 +11,3 @@
 .todo.complete h2 {
   text-decoration: line-through;
 }
-
-.done h2{
-	text-decoration: line-through;
-}
